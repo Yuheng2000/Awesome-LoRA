@@ -9,7 +9,7 @@
 
 
 
-AL is a collection of state-of-the-art (SOTA), novel low-rank adaptation methods (papers, codes and datasets). Any other interesting papers and codes are welcome. Any problems, please contact jiyuheng2023@ia.ac.cn. If you find this repository useful to your research or work, it is really appreciated to star this repository. :sparkles: 
+Awesome-LoRA is a collection of state-of-the-art (SOTA), novel low-rank adaptation methods (papers, codes and datasets). Any other interesting papers and codes are welcome. Any problems, please contact jiyuheng2023@ia.ac.cn. If you find this repository useful to your research or work, it is really appreciated to star this repository. :sparkles: 
 
 [![Made with Python][python-img]][adgc-url]
 [![GitHub stars][stars-img]][stars-url]
@@ -21,6 +21,12 @@ AL is a collection of state-of-the-art (SOTA), novel low-rank adaptation methods
 ## What's LoRA (Low-Rank Adaptation)?
 
 LoRA is an efficient finetuning technique proposed by Microsoft researchers to adapt large models to specific tasks and datasets.
+
+## The pioneering paper
+
+| Year | Title                                                        |    Venue    |                            Paper                             | Code |
+| ---- | ------------------------------------------------------------ | :---------: | :----------------------------------------------------------: | :--: |
+| 2021 | **LoRA: Low-Rank Adaptation of Large Language Models** |    arXiv   | [Link](https://arxiv.org/abs/2106.09685) |  [Link](https://github.com/microsoft/LoRA) |
 
 ## Important Survey Papers
 
