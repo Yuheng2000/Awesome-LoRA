@@ -1,13 +1,15 @@
 # Awesome-LoRA
-[python-img]: https://img.shields.io/github/languages/top/yueliu1999/Awesome-Deep-Graph-Clustering?color=lightgrey
-[stars-img]: https://img.shields.io/github/stars/yueliu1999/Awesome-Deep-Graph-Clustering?color=yellow
-[stars-url]: https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering/stargazers
-[fork-img]: https://img.shields.io/github/forks/yueliu1999/Awesome-Deep-Graph-Clustering?color=lightblue&label=fork
-[fork-url]: https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering/network/members
-[visitors-img]: https://visitor-badge.glitch.me/badge?page_id=yueliu1999.Awesome-Deep-Graph-Clustering
-[adgc-url]: https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering
+[python-img]: https://img.shields.io/github/languages/top/yuheng2000/Awesome-LoRA?color=lightgrey
+[stars-img]: https://img.shields.io/github/stars/yuheng2000/Awesome-LoRA?color=yellow
+[stars-url]: https://github.com/yuheng2000/Awesome-LoRA/stargazers
+[fork-img]: https://img.shields.io/github/forks/yuheng2000/Awesome-LoRA?color=lightblue&label=fork
+[fork-url]: https://github.com/yuheng2000/Awesome-LoRA/network/members
+[visitors-img]: https://visitor-badge.glitch.me/badge?page_id=yuheng2000.Awesome-LoRA
+[adgc-url]: https://github.com/yuheng2000/Awesome-LoRA
 
-ADGC is a collection of state-of-the-art (SOTA), novel deep graph clustering methods (papers, codes and datasets). Any other interesting papers and codes are welcome. Any problems, please contact yueliu19990731@163.com. If you find this repository useful to your research or work, it is really appreciated to star this repository. :sparkles: If you use our code or the processed datasets in this repository for your research, please cite 2-3 papers in the citation part [here](https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering#citation). :heart:
+
+
+AL is a collection of state-of-the-art (SOTA), novel low-rank adaptation methods (papers, codes and datasets). Any other interesting papers and codes are welcome. Any problems, please contact jiyuheng2023@ia.ac.cn. If you find this repository useful to your research or work, it is really appreciated to star this repository. :sparkles: 
 
 [![Made with Python][python-img]][adgc-url]
 [![GitHub stars][stars-img]][stars-url]
@@ -16,15 +18,9 @@ ADGC is a collection of state-of-the-art (SOTA), novel deep graph clustering met
 
 --------------
 
-## What's Deep Graph Clustering?
+## What's LoRA (Low-Rank Adaptation)?
 
-Deep graph clustering, which aims to reveal the underlying graph structure and divide the nodes into different groups, has attracted intensive attention in recent years. More details can be found in the survey paper. [Link](https://arxiv.org/abs/2211.12875)
-
-<div  align="center">    
-    <img src="./assets/logo_new.png" width=90% />
-</div>
-
-
+LoRA is an efficient finetuning technique proposed by Microsoft researchers to adapt large models to specific tasks and datasets.
 
 ## Important Survey Papers
 
@@ -36,8 +32,6 @@ Deep graph clustering, which aims to reveal the underlying graph structure and d
 | 2020 | **A Comprehensive Survey on Graph Neural Networks**          |    TNNLS    | [Link](https://ieeexplore.ieee.org/abstract/document/9046288) |  -   |
 | 2020 | **Deep Learning for Community Detection: Progress, Challenges and Opportunities** |    IJCAI    |           [Link](https://arxiv.org/pdf/2005.08225)           |  -   |
 | 2018 | **A survey of clustering with deep learning: From the perspective of network architecture** | IEEE Access | [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8412085) |  -   |
-
-
 
 
 
