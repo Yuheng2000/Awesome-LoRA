@@ -38,8 +38,6 @@ LoRA is an efficient finetuning technique proposed by Microsoft researchers to a
 
 ## Papers
 
-### Other Related Methods
-
 | Year | Title                                                        | **Venue** |                            Paper                             |                             Code                             |
 | :--: | :----------------------------------------------------------- | :-------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2024 | **AdvLoRA: Adversarial Low-Rank Adaptation of Vision-Language Models** |    arXiv 2024   | [Link](https://arxiv.org/pdf/2404.13425) |  - |
@@ -49,10 +47,5 @@ LoRA is an efficient finetuning technique proposed by Microsoft researchers to a
 | 2023 | **Bayesian Low-rank Adaptation for Large Language Models** |    ICLR 2024   | [Link](https://arxiv.org/abs/2308.13111) |  [Link](https://github.com/MaximeRobeyns/bayesian_lora) |
 | 2023 | **Lora-fa: Memory-efficient low-rank adaptation for large language models fine-tuning** |    arXiv 2023   | [Link](https://arxiv.org/abs/2308.03303) |  - |
 | 2021 | **LoRA: Low-Rank Adaptation of Large Language Models** |    arXiv 2021   | [Link](https://arxiv.org/abs/2106.09685) |  [Link](https://github.com/microsoft/LoRA) |
-
-
-
-[Awesome Deep Multiview Clustering](https://github.com/jinjiaqi1998/Awesome-Deep-Multiview-Clustering)
-
 
 
