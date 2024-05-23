@@ -4,7 +4,7 @@
 [stars-url]: https://github.com/yuheng2000/Awesome-LoRA/stargazers
 [fork-img]: https://img.shields.io/github/forks/yuheng2000/Awesome-LoRA?color=lightblue&label=fork
 [fork-url]: https://github.com/yuheng2000/Awesome-LoRA/network/members
-[visitors-img]: https://visitor-badge.glitch.me/badge?page_id=yuheng2000.Awesome-LoRA
+[visitors-img]: https://badges.pufler.dev/visits/yuheng2000/Awesome-LoRA
 [adgc-url]: https://github.com/yuheng2000/Awesome-LoRA
 
 
