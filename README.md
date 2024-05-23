@@ -64,7 +64,7 @@ LoRA is an efficient finetuning technique proposed by Microsoft researchers to a
 
 
 ## Packages
-https://github.com/huggingface/peft
+Huggingface PEFT [Link](https://github.com/huggingface/peft) 
 
 
 
