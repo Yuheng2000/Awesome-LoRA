@@ -41,6 +41,7 @@ LoRA is an efficient finetuning technique proposed by Microsoft researchers to a
 | Year | Title                                                        | **Venue** |                            Paper                             |                             Code                             |
 | :--: | :----------------------------------------------------------- | :-------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2024 | **AdvLoRA: Adversarial Low-Rank Adaptation of Vision-Language Models** |    arXiv 2024   | [Link](https://arxiv.org/pdf/2404.13425) |  - |
+| 2024 | **LoNAS: Elastic Low-Rank Adapters for Efficient Large Language** |    COLING 2024   | [Link](https://aclanthology.org/2024.lrec-main.940.pdf) |  [Link](https://github.com/IntelLabs/Hardware-Aware-Automated-Machine-Learning?tab=readme-ov-file) |
 | 2024 | **LoRA+: Efficient Low Rank Adaptation of Large Models** |    arXiv 2024   | [Link](https://arxiv.org/abs/2402.12354) |  [Link](https://github.com/nikhil-ghosh-berkeley/loraplus) |
 | 2024 | **PeriodicLoRA: Breaking the Low-Rank Bottleneck in LoRA Optimization** |    arXiv 2024   | [Link](https://arxiv.org/abs/2402.16141) |  - |
 | 2024 | **Derivative-Free Optimization for Low-Rank Adaptation in Large Language Models** |    arXiv 2024   | [Link](https://arxiv.org/abs/2403.01754) |  [Link](https://github.com/stan-anony/derivative_free_lora_rank) |
