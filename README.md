@@ -41,6 +41,17 @@ LoRA is an efficient finetuning technique proposed by Microsoft researchers to a
 | Year | Title                                                        | **Venue** |                            Paper                             |                             Code                             |
 | :--: | :----------------------------------------------------------- | :-------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2024 | **Defending Against Weight-Poisoning Backdoor Attacks for Parameter-Efficient Fine-Tuning** |    arXiv   | [Link](https://arxiv.org/pdf/2402.12168) |  - |
+| 2024 | **LaMDA: Large Model Fine-Tuning via Spectrally Decomposed Low-Dimensional Adaptation** |    arXiv   | [Link](https://arxiv.org/pdf/2406.12832) |  - |
+| 2024 | **Accurate LoRA-Finetuning Quantization of LLMs via Information Retention** |    arXiv   | [Link](https://arxiv.org/pdf/2402.05445) | [Link](https://github.com/htqin/IR-QLoRA) |
+| 2024 | **ResLoRA: Identity Residual Mapping in Low-Rank Adaption** |    arXiv   | [Link](https://arxiv.org/pdf/2402.18039) |  - |
+| 2024 | **Quantum-informed Tensor Adaptation (QuanTA): Efficient High-Rank Fine-Tuning of Large Language Models** |    arXiv   | [Link](https://arxiv.org/abs/2406.00132) | [Link](https://github.com/quanta-fine-tuning/quanta) |
+| 2024 | **VB-LoRA: Extreme Parameter Efficient Fine-Tuning with Vector Banks** |    arXiv   | [Link](https://arxiv.org/pdf/2405.15179) |  - |
+| 2024 | **MoRA: High-Rank Updating for Parameter-Efficient Fine-Tuning** |    arXiv   | [Link](https://arxiv.org/pdf/2405.12130) |  - |
+| 2024 | **FLoRA: Low-Rank Core Space for N-dimension** |    arXiv   | [Link](https://arxiv.org/pdf/2405.14739) |  [Link](https://github.com/SJTU-DeepVisionLab/FLoRA) |
+| 2024 | **LOFIT: Localized Fine-tuning on LLM Representations** |    arXiv   | [Link](https://arxiv.org/pdf/2406.01563) |  - |
+| 2024 | **Visual Perception by Large Language Model's Weights** |    arXiv   | [Link](https://arxiv.org/pdf/2405.203) |  - |
+| 2024 | **Memory-Space Visual Prompting for Efficient Vision-Language Fine-Tuning** |    ICML   | [Link](https://arxiv.org/pdf/2405.05615) |  [Link](https//github.com/JieShibo/MemVP) |
+| 2024 | **Compressible Dynamics in Deep Overparameterized Low-Rank Learning & Adaptation** |    ICML   | [Link](https://arxiv.org/pdf/2406.04112) |  - |
 | 2024 | **AdvLoRA: Adversarial Low-Rank Adaptation of Vision-Language Models** |    arXiv   | [Link](https://arxiv.org/pdf/2404.13425) |  - |
 | 2024 | **FLoRA: Low-Rank Core Space for N-dimension** |    arXiv   | [Link](https://arxiv.org/abs/2405.14739) |  [Link](https://github.com/SJTU-DeepVisionLab/FLoRA) |
 | 2024 | **Parameter-Efficient Fine-Tuning with Discrete Fourier Transform** |    ICML   | [Link](https://arxiv.org/pdf/2405.03003) |  [Link](https://github.com/Chaos96/fourierft) |
