@@ -41,7 +41,7 @@ LoRA is an efficient finetuning technique proposed by Microsoft researchers to a
 | Year | Title                                                        | **Venue** |                            Paper                             |                             Code                             |
 | :--: | :----------------------------------------------------------- | :-------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2024 | **CoLoRA: Continuous low-rank adaptation for reduced implicit neural modeling of parameterized partial differential equations** |    arXiv   | [Link](https://arxiv.org/pdf/2402.14646) | [Link](https://github.com/julesberman/CoLoRA) |
-| 2024 | **CorDA: Context-Oriented Decomposition Adaptation of Large Language Models** |    arXiv   | [Link](https://arxiv.org/pdf/2406.05223) [Link](https://github.com/iboing/CorDA) |
+| 2024 | **CorDA: Context-Oriented Decomposition Adaptation of Large Language Models** |    arXiv   | [Link](https://arxiv.org/pdf/2406.05223) | [Link](https://github.com/iboing/CorDA) |
 | 2024 | **LoRAP: Transformer Sub-Layers Deserve Differentiated Structured Compression for Large Language Models** |    ICML   | [Link](https://arxiv.org/pdf/2404.09695) |  - |
 | 2024 | **Asymmetry in Low-Rank Adapters of Foundation Models** |    arXiv   | [Link](https://arxiv.org/pdf/2402.16842) | [Link](https://github.com/Jiacheng-Zhu-AIML/AsymmetryLoRA) |
 | 2024 | **SAML: Speaker Adaptive Mixture of LoRA Experts for End-to-End ASR** |    arXiv   | [Link](https://arxiv.org/pdf/2406.19706) | [Link](https://github.com/qmgzhao/SAML) |
