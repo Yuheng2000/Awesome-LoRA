@@ -1,4 +1,4 @@
-# Awesome-LoRA
+c# Awesome-LoRA
 [python-img]: https://img.shields.io/github/languages/top/yuheng2000/Awesome-LoRA?color=lightgrey
 [stars-img]: https://img.shields.io/github/stars/yuheng2000/Awesome-LoRA?color=yellow
 [stars-url]: https://github.com/yuheng2000/Awesome-LoRA/stargazers
@@ -53,7 +53,7 @@ LoRA is an efficient finetuning technique proposed by Microsoft researchers to a
 | 2024 | **ExPLoRA: Parameter-Efficient Extended Pre-Training to Adapt Vision Transformers under Domain Shifts** |    arXiv   | [Link](https://arxiv.org/pdf/2406.10973) |  - |
 | 2024 | **ShareLoRA: Parameter Efficient and Robust Large Language Model Fine-tuning via Shared Low-Rank Adaptation** |    arXiv   | [Link](https://arxiv.org/pdf/2406.10785) |  - |
 | 2024 | **ALoRA: Allocating Low-Rank Adaptation for Fine-tuning Large Language Models** |    arXiv   | [Link](https://arxiv.org/pdf/2403.16187) |  - |
-| 2024 | **ResLoRA: Identity Residual Mapping in Low-Rank Adaption** |    arXiv   | [Link](https://arxiv.org/pdf/2402.18039) |  - |
+| 2024 | **ResLoRA: Identity Residual Mapping in Low-Rank Adaption** |    arXiv   | [Link](https://arxiv.org/pdf/2402.18039) |  [Link](https://github.com/microsoft/LMOps/tree/main/reslora) |
 | 2024 | **RST-LoRA: A Discourse-Aware Low-Rank Adaptation for Long Document Abstractive Summarization** |    arXiv   | [Link](https://arxiv.org/pdf/2405.00657) |  - |
 | 2024 | **Federated LoRA with Sparse Communication** |    arXiv   | [Link](https://arxiv.org/pdf/2406.05233) | [Link](https://github.com/imkevinkuo/flasc) |
 | 2024 | **RoseLoRA: Row and Column-wise Sparse Low-rank Adaptation of Pre-trained Language Model for Knowledge Editing and Fine-tuning** |    arXiv   | [Link](https://arxiv.org/pdf/2406.10777) |  - |
