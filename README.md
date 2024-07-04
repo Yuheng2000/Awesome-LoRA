@@ -40,6 +40,28 @@ LoRA is an efficient finetuning technique proposed by Microsoft researchers to a
 
 | Year | Title                                                        | **Venue** |                            Paper                             |                             Code                             |
 | :--: | :----------------------------------------------------------- | :-------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024 | **CoLoRA: Continuous low-rank adaptation for reduced implicit neural modeling of parameterized partial differential equations** |    arXiv   | [Link](https://arxiv.org/pdf/2402.14646) | [Link](https://github.com/julesberman/CoLoRA) |
+| 2024 | **CorDA: Context-Oriented Decomposition Adaptation of Large Language Models** |    arXiv   | [Link](https://arxiv.org/pdf/2406.05223) [Link](https://github.com/iboing/CorDA) |
+| 2024 | **LoRAP: Transformer Sub-Layers Deserve Differentiated Structured Compression for Large Language Models** |    ICML   | [Link](https://arxiv.org/pdf/2404.09695) |  - |
+| 2024 | **Asymmetry in Low-Rank Adapters of Foundation Models** |    arXiv   | [Link](https://arxiv.org/pdf/2402.16842) | [Link](https://github.com/Jiacheng-Zhu-AIML/AsymmetryLoRA) |
+| 2024 | **SAML: Speaker Adaptive Mixture of LoRA Experts for End-to-End ASR** |    arXiv   | [Link](https://arxiv.org/pdf/2406.19706) | [Link](https://github.com/qmgzhao/SAML) |
+| 2024 | **Dataset Size Recovery from LoRA Weights** |    arXiv   | [Link](https://arxiv.org/pdf/2406.19395) |  [Link](https://github.com/MoSalama98/DSiRe) |
+| 2024 | **Towards Federated Low-Rank Adaptation with Rank-Heterogeneous Communication** |    arXiv   | [Link](https://arxiv.org/pdf/2406.17477) |  - |
+| 2024 | **Retrieval-Augmented Mixture of LoRA Experts for Uploadable Machine Learning** |    arXiv   | [Link](https://arxiv.org/pdf/2406.16989) |  - |
+| 2024 | **Bayesian-LoRA: LoRA based Parameter Efficient Fine-Tuning using Optimal Quantization levels and Rank Values trough Differentiable Bayesian Gates** |    arXiv   | [Link](https://arxiv.org/pdf/2406.13046) |  - |
+| 2024 | **Mixture-of-Subspaces in Low-Rank Adaptation** |    arXiv   | [Link](https://arxiv.org/pdf/2406.11909) |  - |
+| 2024 | **ExPLoRA: Parameter-Efficient Extended Pre-Training to Adapt Vision Transformers under Domain Shifts** |    arXiv   | [Link](https://arxiv.org/pdf/2406.10973) |  - |
+| 2024 | **ShareLoRA: Parameter Efficient and Robust Large Language Model Fine-tuning via Shared Low-Rank Adaptation** |    arXiv   | [Link](https://arxiv.org/pdf/2406.10785) |  - |
+| 2024 | **ALoRA: Allocating Low-Rank Adaptation for Fine-tuning Large Language Models** |    arXiv   | [Link](https://arxiv.org/pdf/2403.16187) |  - |
+| 2024 | **ResLoRA: Identity Residual Mapping in Low-Rank Adaption** |    arXiv   | [Link](https://arxiv.org/pdf/2402.18039) |  - |
+| 2024 | **RST-LoRA: A Discourse-Aware Low-Rank Adaptation for Long Document Abstractive Summarization** |    arXiv   | [Link](https://arxiv.org/pdf/2405.00657) |  - |
+| 2024 | **Federated LoRA with Sparse Communication** |    arXiv   | [Link](https://arxiv.org/pdf/2406.05233) | [Link](https://github.com/imkevinkuo/flasc) |
+| 2024 | **RoseLoRA: Row and Column-wise Sparse Low-rank Adaptation of Pre-trained Language Model for Knowledge Editing and Fine-tuning** |    arXiv   | [Link](https://arxiv.org/pdf/2406.10777) |  - |
+| 2024 | **Task-Aware Low-Rank Adaptation of Segment Anything Model** |    arXiv   | [Link](https://arxiv.org/pdf/2406.10777) |  - |
+| 2024 | **Relora: High-rank training through low-rank updates** |    arXiv   | [Link](https://arxiv.org/pdf/2307.05695) | [Link](https://github.com/Guitaricet/relora) |
+| 2024 | **Low-Rank Few-Shot Adaptation of Vision-Language Models** |    CVPR   | [Link](https://arxiv.org/pdf/2405.18541) |  - |
+| 2024 | **MTLoRA: A Low-Rank Adaptation Approach for Efficient Multi-Task Learning** |    CVPR   | [Link](https://arxiv.org/pdf/2403.20320) | [Link](https://github.com/scale-lab/MTLoRA) |
+| 2024 | **QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models** |    arXiv   | [Link](https://arxiv.org/pdf/2309.14717) |  [Link](https://github.com/eltociear/qa-lora) |
 | 2024 | **Defending Against Weight-Poisoning Backdoor Attacks for Parameter-Efficient Fine-Tuning** |    arXiv   | [Link](https://arxiv.org/pdf/2402.12168) |  - |
 | 2024 | **Mixture-of-LoRAs: An Efficient Multitask Tuning for Large Language Models** |    COLING   | [Link](https://arxiv.org/pdf/2403.03432) |  - |
 | 2024 | **LaMDA: Large Model Fine-Tuning via Spectrally Decomposed Low-Dimensional Adaptation** |    arXiv   | [Link](https://arxiv.org/pdf/2406.12832) |  - |
@@ -71,6 +93,7 @@ LoRA is an efficient finetuning technique proposed by Microsoft researchers to a
 | 2024 | **Galore: Memory-efficient llm training by gradient low-rank projection** |    ICML   | [Link](https://arxiv.org/abs/2403.03507) |  [Link](https://github.com/jiaweizzhao/GaLore) |
 | 2024 | **Let's Focus on Neuron: Neuron-Level Supervised Fine-tuning for Large Language Model** |    arXiv   | [Link](https://arxiv.org/abs/2403.11621) |  - |
 | 2024 | **LISA: Layerwise Importance Sampling for Memory-Efficient Large Language Model Fine-Tuning** |    arXiv   | [Link](https://arxiv.org/abs/2403.17919) |  - |
+| 2023 | **Delta-LoRA: Fine-Tuning High-Rank Parameters with the Delta of Low-Rank Matrices** |    arXiv   | [Link](https://arxiv.org/pdf/2309.02411) |  - |
 | 2023 | **DyLoRA: Parameter-Efficient Tuning of Pre-trained Models using Dynamic Search-Free Low-Rank Adaptation** |    EACL   | [Link](https://arxiv.org/pdf/2404.13425) |  [Link](https://github.com/huawei-noah/KD-NLP/tree/main/DyLoRA) |
 | 2023 | **The expressive power of low-rank adaptation** |    ICLR   | [Link](https://arxiv.org/abs/2310.17513) |  [Link](https://github.com/UW-Madison-Lee-Lab/Expressive_Power_of_LoRA) |
 | 2023 | **Exploring the impact of low-rank adaptation on the performance, efficiency, and regularization of RLHF** |    arXiv   | [Link](https://arxiv.org/abs/2309.09055) |  [Link](https://github.com/SimengSun/alpaca_farm_lora) |
