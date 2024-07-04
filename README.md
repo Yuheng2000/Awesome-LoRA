@@ -49,7 +49,7 @@ LoRA is an efficient finetuning technique proposed by Microsoft researchers to a
 | 2024 | **Towards Federated Low-Rank Adaptation with Rank-Heterogeneous Communication** |    arXiv   | [Link](https://arxiv.org/pdf/2406.17477) |  - |
 | 2024 | **Retrieval-Augmented Mixture of LoRA Experts for Uploadable Machine Learning** |    arXiv   | [Link](https://arxiv.org/pdf/2406.16989) |  - |
 | 2024 | **Bayesian-LoRA: LoRA based Parameter Efficient Fine-Tuning using Optimal Quantization levels and Rank Values trough Differentiable Bayesian Gates** |    arXiv   | [Link](https://arxiv.org/pdf/2406.13046) |  - |
-| 2024 | **Mixture-of-Subspaces in Low-Rank Adaptation** |    arXiv   | [Link](https://arxiv.org/pdf/2406.11909) |  - |
+| 2024 | **Mixture-of-Subspaces in Low-Rank Adaptation** |    arXiv   | [Link](https://arxiv.org/pdf/2406.11909) |  [Link](https://github.com/wutaiqiang/MoSLoRA) |
 | 2024 | **ExPLoRA: Parameter-Efficient Extended Pre-Training to Adapt Vision Transformers under Domain Shifts** |    arXiv   | [Link](https://arxiv.org/pdf/2406.10973) |  - |
 | 2024 | **ShareLoRA: Parameter Efficient and Robust Large Language Model Fine-tuning via Shared Low-Rank Adaptation** |    arXiv   | [Link](https://arxiv.org/pdf/2406.10785) |  - |
 | 2024 | **ALoRA: Allocating Low-Rank Adaptation for Fine-tuning Large Language Models** |    arXiv   | [Link](https://arxiv.org/pdf/2403.16187) |  - |
