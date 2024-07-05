@@ -1,4 +1,3 @@
-c# Awesome-LoRA
 [python-img]: https://img.shields.io/github/languages/top/yuheng2000/Awesome-LoRA?color=lightgrey
 [stars-img]: https://img.shields.io/github/stars/yuheng2000/Awesome-LoRA?color=yellow
 [stars-url]: https://github.com/yuheng2000/Awesome-LoRA/stargazers
@@ -7,7 +6,7 @@ c# Awesome-LoRA
 [visitors-img]: https://badges.pufler.dev/visits/yuheng2000/Awesome-LoRA
 [adgc-url]: https://github.com/yuheng2000/Awesome-LoRA
 
-
+## Awesome-LoRA
 
 Awesome-LoRA is a collection of state-of-the-art (SOTA), novel low-rank adaptation methods (papers, codes and datasets). Any other interesting papers and codes are welcome. Any problems, please contact jiyuheng2023@ia.ac.cn. If you find this repository useful to your research or work, it is really appreciated to star this repository. :sparkles: 
 
