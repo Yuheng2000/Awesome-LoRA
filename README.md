@@ -40,6 +40,8 @@ LoRA is an efficient finetuning technique proposed by Microsoft researchers to a
 
 | Year | Title                                                        | **Venue** |                            Paper                             |                             Code                             |
 | :--: | :----------------------------------------------------------- | :-------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024 | **LoraRetriever: Input-Aware LoRA Retrieval and Composition for Mixed Tasks in the Wild** |    arXiv   | [Link](https://arxiv.org/pdf/2402.09997) |  - |
+| 2024 | **Riemannian Preconditioned LoRA for Fine-Tuning Foundation Models** |    arXiv   | [Link](https://arxiv.org/pdf/2402.02347) |  [Link](https://github.com/pilancilab/Riemannian_Preconditioned_LoRA) |
 | 2024 | **CoLoRA: Continuous low-rank adaptation for reduced implicit neural modeling of parameterized partial differential equations** |    arXiv   | [Link](https://arxiv.org/pdf/2402.14646) | [Link](https://github.com/julesberman/CoLoRA) |
 | 2024 | **CorDA: Context-Oriented Decomposition Adaptation of Large Language Models** |    arXiv   | [Link](https://arxiv.org/pdf/2406.05223) | [Link](https://github.com/iboing/CorDA) |
 | 2024 | **LoRAP: Transformer Sub-Layers Deserve Differentiated Structured Compression for Large Language Models** |    ICML   | [Link](https://arxiv.org/pdf/2404.09695) |  - |
