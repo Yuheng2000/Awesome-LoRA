@@ -39,6 +39,7 @@ LoRA is an efficient finetuning technique proposed by Microsoft researchers to a
 
 | Year | Title                                                        | **Venue** |                            Paper                             |                             Code                             |
 | :--: | :----------------------------------------------------------- | :-------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024 | **Accurate LoRA-Finetuning Quantization of LLMs via Information Retention** |    ICML   | [Link](https://arxiv.org/pdf/2402.05445) |  [Link](https://github.com/htqin/ir-qlora) |
 | 2024 | **Compressible Dynamics in Deep Overparameterized Low-Rank Learning & Adaptation** |    ICML   | [Link](https://arxiv.org/pdf/2406.04112) |  [Link](https://github.com/cjyaras/deep-lora-transformers) |
 | 2024 | **FLORA: Low-Rank Adapters Are Secretly Gradient Compressors** |    ICML   | [Link](https://arxiv.org/pdf/2402.03293) |  [Link](https://github.com/BorealisAI/flora-opt) |
 | 2024 | **MiLoRA: Harnessing Minor Singular Components for Parameter-Efficient LLM Finetuning** |    arXiv   | [Link](https://arxiv.org/pdf/2406.09044) |  - |
