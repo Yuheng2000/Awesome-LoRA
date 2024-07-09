@@ -39,9 +39,20 @@ LoRA is an efficient finetuning technique proposed by Microsoft researchers to a
 
 | Year | Title                                                        | **Venue** |                            Paper                             |                             Code                             |
 | :--: | :----------------------------------------------------------- | :-------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024 | **LoRA-XS: Low-Rank Adaptation with Extremely Small Number of Parameters** |    arXiv   | [Link](https://arxiv.org/pdf/2405.17604) |  [Link](https://github.com/MohammadrezaBanaei/LoRA-XS) |
+| 2024 | **Matrix-Transformation Based Low-Rank Adaptation (MTLoRA): A Brain-Inspired Method for Parameter-Efficient Fine-Tuning** |    arXiv   | [Link](https://arxiv.org/pdf/2403.07440) |  - |
+| 2024 | **AutoLoRA: Automatically Tuning Matrix Ranks in Low-Rank Adaptation Based on Meta Learning** |    arXiv   | [Link](https://arxiv.org/pdf/2403.09113) |  [Link](https://anonymous.4open.science/r/AutoLoRA) |
+| 2024 | **RankAdaptor: Hierarchical Dynamic Low-Rank Adaptation for Structural Pruned LLMs** |    arXiv   | [Link](https://arxiv.org/pdf/2406.15734) |  - |
+| 2024 | **LoRA-Composer: Leveraging Low-Rank Adaptation for Multi-Concept Customization in Training-Free Diffusion Models** |    arXiv   | [Link](https://arxiv.org/pdf/2403.11627) |  [Link](https://github.com/Young98CN/LoRA_Composer) |
+| 2024 | **Investigating Training Strategies and Model Robustness of Low-Rank Adaptation for Language Modeling in Speech Recognition** |    arXiv   | [Link](https://arxiv.org/pdf/2401.10447) |  - |
+| 2024 | **PRILoRA: Pruned and Rank-Increasing Low-Rank Adaptation** |    arXiv   | [Link](https://arxiv.org/pdf/2401.11316) |  - |
+| 2024 | **LAMPAT: Low-Rank Adaption for Multilingual Paraphrasing Using Adversarial Training** |    AAAI   | [Link](https://arxiv.org/pdf/2401.04348) |  - |
+| 2024 | **LoRETTA: Low-Rank Economic Tensor-Train Adaptation for Ultra-Low-Parameter Fine-Tuning of Large Language Models** |    arXiv   | [Link](https://arxiv.org/pdf/2402.11417) |  [Link](https://github.com/yifanycc/loretta) |
+| 2024 | **Derivative-Free Optimization for Low-Rank Adaptation in Large Language Models** |    arXiv   | [Link](https://arxiv.org/pdf/2403.01754) |  [Link](https://github.com/stan-anony/derivative_free_lora_rank) |
+| 2024 | **LORS: Low-rank Residual Structure for Parameter-Efficient Network Stackingg** |    CVPR   | [Link](https://arxiv.org/pdf/2403.04303) |  - |
+| 2024 | **FedLoRA: When Personalized Federated Learning Meets Low-Rank Adaptation** |    ICLR   | [Link](https://openreview.net/pdf?id=bZh06ptG9r) |  - |
 | 2024 | **InfLoRA: Interference-Free Low-Rank Adaptation for Continual Learning** |    CVPR   | [Link](https://arxiv.org/pdf/2404.00228) |  [Link](https://github.com/liangyanshuo/InfLoRA) |
 | 2024 | **AdvLoRA: Adversarial Low-Rank Adaptation of Vision-Language Models** |    arXiv   | [Link](https://arxiv.org/pdf/2404.13425) |  - |
-| 2024 | **Accurate LoRA-Finetuning Quantization of LLMs via Information Retention** |    ICML   | [Link](https://arxiv.org/pdf/2402.05445) |  [Link](https://github.com/htqin/ir-qlora) |
 | 2024 | **Compressible Dynamics in Deep Overparameterized Low-Rank Learning & Adaptation** |    ICML   | [Link](https://arxiv.org/pdf/2406.04112) |  [Link](https://github.com/cjyaras/deep-lora-transformers) |
 | 2024 | **FLORA: Low-Rank Adapters Are Secretly Gradient Compressors** |    ICML   | [Link](https://arxiv.org/pdf/2402.03293) |  [Link](https://github.com/BorealisAI/flora-opt) |
 | 2024 | **MiLoRA: Harnessing Minor Singular Components for Parameter-Efficient LLM Finetuning** |    arXiv   | [Link](https://arxiv.org/pdf/2406.09044) |  - |
@@ -100,6 +111,7 @@ LoRA is an efficient finetuning technique proposed by Microsoft researchers to a
 | 2024 | **Galore: Memory-efficient llm training by gradient low-rank projection** |    ICML   | [Link](https://arxiv.org/abs/2403.03507) |  [Link](https://github.com/jiaweizzhao/GaLore) |
 | 2024 | **Let's Focus on Neuron: Neuron-Level Supervised Fine-tuning for Large Language Model** |    arXiv   | [Link](https://arxiv.org/abs/2403.11621) |  - |
 | 2024 | **LISA: Layerwise Importance Sampling for Memory-Efficient Large Language Model Fine-Tuning** |    arXiv   | [Link](https://arxiv.org/abs/2403.17919) |  - |
+| 2023 | **Efficient Low-rank Backpropagation for Vision Transformer Adaptation** |    NeurIPS   | [Link](https://proceedings.neurips.cc/paper_files/paper/2023/file/2f75a57e9c71e8369da0150ea769d5a2-Paper-Conference.pdf) |  [Link](https://github.com/SLDGroup/LBP-WHT) |
 | 2023 | **Delta-LoRA: Fine-Tuning High-Rank Parameters with the Delta of Low-Rank Matrices** |    arXiv   | [Link](https://arxiv.org/pdf/2309.02411) |  - |
 | 2023 | **DyLoRA: Parameter-Efficient Tuning of Pre-trained Models using Dynamic Search-Free Low-Rank Adaptation** |    EACL   | [Link](https://arxiv.org/pdf/2404.13425) |  [Link](https://github.com/huawei-noah/KD-NLP/tree/main/DyLoRA) |
 | 2023 | **The expressive power of low-rank adaptation** |    ICLR   | [Link](https://arxiv.org/abs/2310.17513) |  [Link](https://github.com/UW-Madison-Lee-Lab/Expressive_Power_of_LoRA) |
