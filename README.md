@@ -39,7 +39,7 @@ LoRA is an efficient finetuning technique proposed by Microsoft researchers to a
 
 | Year | Title                                                        | **Venue** |                            Paper                             |                             Code                             |
 | :--: | :----------------------------------------------------------- | :-------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 2024 | **InfLoRA: Interference-Free Low-Rank Adaptation for Continual Learning** |    CVPR   | [Link](https://arxiv.org/pdf/2404.00228) |  [Link]((https://github.com/liangyanshuo/InfLoRA)) |
+| 2024 | **InfLoRA: Interference-Free Low-Rank Adaptation for Continual Learning** |    CVPR   | [Link](https://arxiv.org/pdf/2404.00228) |  [Link](https://github.com/liangyanshuo/InfLoRA) |
 | 2024 | **AdvLoRA: Adversarial Low-Rank Adaptation of Vision-Language Models** |    arXiv   | [Link](https://arxiv.org/pdf/2404.13425) |  - |
 | 2024 | **Accurate LoRA-Finetuning Quantization of LLMs via Information Retention** |    ICML   | [Link](https://arxiv.org/pdf/2402.05445) |  [Link](https://github.com/htqin/ir-qlora) |
 | 2024 | **Compressible Dynamics in Deep Overparameterized Low-Rank Learning & Adaptation** |    ICML   | [Link](https://arxiv.org/pdf/2406.04112) |  [Link](https://github.com/cjyaras/deep-lora-transformers) |
