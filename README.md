@@ -86,7 +86,7 @@ LoRA is an efficient finetuning technique proposed by Microsoft researchers to a
 | 2024 | **Defending Against Weight-Poisoning Backdoor Attacks for Parameter-Efficient Fine-Tuning** |    arXiv   | [Link](https://arxiv.org/pdf/2402.12168) |  - |
 | 2024 | **Mixture-of-LoRAs: An Efficient Multitask Tuning for Large Language Models** |    COLING   | [Link](https://arxiv.org/pdf/2403.03432) |  - |
 | 2024 | **LaMDA: Large Model Fine-Tuning via Spectrally Decomposed Low-Dimensional Adaptation** |    arXiv   | [Link](https://arxiv.org/pdf/2406.12832) |  [Link](https://github.com/ArminAzizi98/LaMDA) |
-| 2024 | **Accurate LoRA-Finetuning Quantization of LLMs via Information Retention** |    arXiv   | [Link](https://arxiv.org/pdf/2402.05445) | [Link](https://github.com/htqin/IR-QLoRA) |
+| 2024 | **Accurate LoRA-Finetuning Quantization of LLMs via Information Retention** |    ICML   | [Link](https://arxiv.org/pdf/2402.05445) | [Link](https://github.com/htqin/IR-QLoRA) | Quantization; Information Retention;|
 | 2024 | **Quantum-informed Tensor Adaptation (QuanTA): Efficient High-Rank Fine-Tuning of Large Language Models** |    arXiv   | [Link](https://arxiv.org/abs/2406.00132) | [Link](https://github.com/quanta-fine-tuning/quanta) |
 | 2024 | **VB-LoRA: Extreme Parameter Efficient Fine-Tuning with Vector Banks** |    arXiv   | [Link](https://arxiv.org/pdf/2405.15179) |  [Link](https://github.com/leo-yangli/VB-LoRA) |
 | 2024 | **MoRA: High-Rank Updating for Parameter-Efficient Fine-Tuning** |    arXiv   | [Link](https://arxiv.org/pdf/2405.12130) |  [Link](https://github.com/kongds/MoRA) |
