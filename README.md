@@ -51,7 +51,7 @@ LoRA is an efficient finetuning technique proposed by Microsoft researchers to a
 | 2024 | **LAMPAT: Low-Rank Adaption for Multilingual Paraphrasing Using Adversarial Training** |    AAAI   | [Link](https://arxiv.org/pdf/2401.04348) |  [Link](https://github.com/VinAIResearch/LAMPAT) | Unsupervised Multilingual Paraphrasing |
 | 2024 | **LoRETTA: Low-Rank Economic Tensor-Train Adaptation for Ultra-Low-Parameter Fine-Tuning of Large Language Models** |    arXiv   | [Link](https://arxiv.org/pdf/2402.11417) |  [Link](https://github.com/yifanycc/loretta) | Tensor-Train Decomposition; Robust Fine-Tuning|
 | 2024 | **Derivative-Free Optimization for Low-Rank Adaptation in Large Language Models** |    arXiv   | [Link](https://arxiv.org/pdf/2403.01754) |  [Link](https://github.com/stan-anony/derivative_free_lora_rank) | Enhance Robustness; Derivative-Free Optimization |
-| 2024 | **LORS: Low-rank Residual Structure for Parameter-Efficient Network Stackingg** |    CVPR   | [Link](https://arxiv.org/pdf/2403.04303) |  - |
+| 2024 | **LORS: Low-rank Residual Structure for Parameter-Efficient Network Stackingg** |    CVPR   | [Link](https://arxiv.org/pdf/2403.04303) |  - | Reduce Stacking Depth |
 | 2024 | **FedLoRA: When Personalized Federated Learning Meets Low-Rank Adaptation** |    ICLR   | [Link](https://openreview.net/pdf?id=bZh06ptG9r) |  [Link](https://github.com/yyn21/SA-FedLora) |
 | 2024 | **InfLoRA: Interference-Free Low-Rank Adaptation for Continual Learning** |    CVPR   | [Link](https://arxiv.org/pdf/2404.00228) |  [Link](https://github.com/liangyanshuo/InfLoRA) |
 | 2024 | **AdvLoRA: Adversarial Low-Rank Adaptation of Vision-Language Models** |    arXiv   | [Link](https://arxiv.org/pdf/2404.13425) |  - |
