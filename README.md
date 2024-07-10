@@ -91,7 +91,7 @@ LoRA is an efficient finetuning technique proposed by Microsoft researchers to a
 | 2024 | **VB-LoRA: Extreme Parameter Efficient Fine-Tuning with Vector Banks** |    arXiv   | [Link](https://arxiv.org/pdf/2405.15179) |  [Link](https://github.com/leo-yangli/VB-LoRA) | Shared Vector Bank |
 | 2024 | **MoRA: High-Rank Updating for Parameter-Efficient Fine-Tuning** |    arXiv   | [Link](https://arxiv.org/pdf/2405.12130) |  [Link](https://github.com/kongds/MoRA) | High-Rank Updating; Non-Parameter Operators |
 | 2024 | **FLoRA: Low-Rank Core Space for N-dimension** |    arXiv   | [Link](https://arxiv.org/pdf/2405.14739) |  [Link](https://github.com/SJTU-DeepVisionLab/FLoRA) | N-Dimensional Parameter Space |
-| 2024 | **LOFIT: Localized Fine-tuning on LLM Representations** |    arXiv   | [Link](https://arxiv.org/pdf/2406.01563) |  [Link](https://github.com/fc2869/lo-fit) |
+| 2024 | **LOFIT: Localized Fine-tuning on LLM Representations** |    arXiv   | [Link](https://arxiv.org/pdf/2406.01563) |  [Link](https://github.com/fc2869/lo-fit) | Localized Fine-Tuning |
 | 2024 | **Visual Perception by Large Language Model's Weights** |    arXiv   | [Link](https://arxiv.org/pdf/2405.203) |  - |
 | 2024 | **Memory-Space Visual Prompting for Efficient Vision-Language Fine-Tuning** |    ICML   | [Link](https://arxiv.org/pdf/2405.05615) |  [Link](https//github.com/JieShibo/MemVP) |
 | 2024 | **Compressible Dynamics in Deep Overparameterized Low-Rank Learning & Adaptation** |    ICML   | [Link](https://arxiv.org/pdf/2406.04112) |  - |
