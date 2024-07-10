@@ -67,7 +67,7 @@ LoRA is an efficient finetuning technique proposed by Microsoft researchers to a
 | 2024 | **Asymmetry in Low-Rank Adapters of Foundation Models** |    arXiv   | [Link](https://arxiv.org/pdf/2402.16842) | [Link](https://github.com/Jiacheng-Zhu-AIML/AsymmetryLoRA) | Unexpected Asymmetry In the Importance of Low-Rank Adapter Matrices |
 | 2024 | **SAML: Speaker Adaptive Mixture of LoRA Experts for End-to-End ASR** |    arXiv   | [Link](https://arxiv.org/pdf/2406.19706) | [Link](https://github.com/qmgzhao/SAML) | Mixture-Of-Experts(MoE); Speaker Adaptation |
 | 2024 | **Dataset Size Recovery from LoRA Weights** |    arXiv   | [Link](https://arxiv.org/pdf/2406.19395) |  [Link](https://github.com/MoSalama98/DSiRe) | Dataset Size Recovery |
-| 2024 | **Towards Federated Low-Rank Adaptation with Rank-Heterogeneous Communication** |    arXiv   | [Link](https://arxiv.org/pdf/2406.17477) |  - |
+| 2024 | **Towards Federated Low-Rank Adaptation with Rank-Heterogeneous Communication** |    arXiv   | [Link](https://arxiv.org/pdf/2406.17477) |  - | Replication-Based Padding Strategy; Federated Learning |
 | 2024 | **Retrieval-Augmented Mixture of LoRA Experts for Uploadable Machine Learning** |    arXiv   | [Link](https://arxiv.org/pdf/2406.16989) |  - |
 | 2024 | **Bayesian-LoRA: LoRA based Parameter Efficient Fine-Tuning using Optimal Quantization levels and Rank Values trough Differentiable Bayesian Gates** |    arXiv   | [Link](https://arxiv.org/pdf/2406.13046) |  - |
 | 2024 | **Mixture-of-Subspaces in Low-Rank Adaptation** |    arXiv   | [Link](https://arxiv.org/pdf/2406.11909) |  [Link](https://github.com/wutaiqiang/MoSLoRA) |
