@@ -80,7 +80,7 @@ LoRA is an efficient finetuning technique proposed by Microsoft researchers to a
 | 2024 | **RoseLoRA: Row and Column-wise Sparse Low-rank Adaptation of Pre-trained Language Model for Knowledge Editing and Fine-tuning** |    arXiv   | [Link](https://arxiv.org/pdf/2406.10777) |  - | The Sparsity with Respective to The Matrix Product |
 | 2024 | **Task-Aware Low-Rank Adaptation of Segment Anything Model** |    arXiv   | [Link](https://arxiv.org/pdf/2403.10971) |  - | Segment Anything Model (SAM); Multi-Task Learning
 | 2024 | **Relora: High-rank training through low-rank updates** |    ICLR   | [Link](https://arxiv.org/pdf/2307.05695) | [Link](https://github.com/Guitaricet/relora) | Low-Rank Updates |
-| 2024 | **Low-Rank Few-Shot Adaptation of Vision-Language Models** |    CVPR   | [Link](https://arxiv.org/pdf/2405.18541) |  [Link](https://github.com/MaxZanella/CLIP-LoRA) |
+| 2024 | **Low-Rank Few-Shot Adaptation of Vision-Language Models** |    CVPR   | [Link](https://arxiv.org/pdf/2405.18541) |  [Link](https://github.com/MaxZanella/CLIP-LoRA) | VisionLanguage Models (VLMs); Few-Shot |
 | 2024 | **MTLoRA: A Low-Rank Adaptation Approach for Efficient Multi-Task Learning** |    CVPR   | [Link](https://arxiv.org/pdf/2403.20320) | [Link](https://github.com/scale-lab/MTLoRA) |
 | 2024 | **QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models** |    arXiv   | [Link](https://arxiv.org/pdf/2309.14717) |  [Link](https://github.com/eltociear/qa-lora) |
 | 2024 | **Defending Against Weight-Poisoning Backdoor Attacks for Parameter-Efficient Fine-Tuning** |    arXiv   | [Link](https://arxiv.org/pdf/2402.12168) |  - |
