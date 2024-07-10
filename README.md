@@ -73,7 +73,7 @@ LoRA is an efficient finetuning technique proposed by Microsoft researchers to a
 | 2024 | **Mixture-of-Subspaces in Low-Rank Adaptation** |    arXiv   | [Link](https://arxiv.org/pdf/2406.11909) |  [Link](https://github.com/wutaiqiang/MoSLoRA) | Mixtureof-Subspaces; Robust Fine-Tuning |
 | 2024 | **ExPLoRA: Parameter-Efficient Extended Pre-Training to Adapt Vision Transformers under Domain Shifts** |    arXiv   | [Link](https://arxiv.org/pdf/2406.10973) |  - | VIT; Unsupervised Pre-Training; Supervised Learning |
 | 2024 | **ShareLoRA: Parameter Efficient and Robust Large Language Model Fine-tuning via Shared Low-Rank Adaptation** |    arXiv   | [Link](https://arxiv.org/pdf/2406.10785) |  - | Shared; transfer learning |
-| 2024 | **ALoRA: Allocating Low-Rank Adaptation for Fine-tuning Large Language Models** |    arXiv   | [Link](https://arxiv.org/pdf/2403.16187) |  - |
+| 2024 | **ALoRA: Allocating Low-Rank Adaptation for Fine-tuning Large Language Models** |    arXiv   | [Link](https://arxiv.org/pdf/2403.16187) |  - | Allocating; Structural Pruning |
 | 2024 | **ResLoRA: Identity Residual Mapping in Low-Rank Adaption** |    arXiv   | [Link](https://arxiv.org/pdf/2402.18039) |  [Link](https://github.com/microsoft/LMOps/tree/main/reslora) |
 | 2024 | **RST-LoRA: A Discourse-Aware Low-Rank Adaptation for Long Document Abstractive Summarization** |    arXiv   | [Link](https://arxiv.org/pdf/2405.00657) |  - |
 | 2024 | **Federated LoRA with Sparse Communication** |    arXiv   | [Link](https://arxiv.org/pdf/2406.05233) | [Link](https://github.com/imkevinkuo/flasc) |
