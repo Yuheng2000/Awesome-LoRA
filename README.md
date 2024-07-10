@@ -53,7 +53,7 @@ LoRA is an efficient finetuning technique proposed by Microsoft researchers to a
 | 2024 | **Derivative-Free Optimization for Low-Rank Adaptation in Large Language Models** |    arXiv   | [Link](https://arxiv.org/pdf/2403.01754) |  [Link](https://github.com/stan-anony/derivative_free_lora_rank) | Enhance Robustness; Derivative-Free Optimization |
 | 2024 | **LORS: Low-rank Residual Structure for Parameter-Efficient Network Stackingg** |    CVPR   | [Link](https://arxiv.org/pdf/2403.04303) |  - | Reduce Stacking Depth |
 | 2024 | **FedLoRA: When Personalized Federated Learning Meets Low-Rank Adaptation** |    ICLR   | [Link](https://openreview.net/pdf?id=bZh06ptG9r) |  [Link](https://github.com/yyn21/SA-FedLora) | Personalized Federated Learning; Data Heterogeneity |
-| 2024 | **InfLoRA: Interference-Free Low-Rank Adaptation for Continual Learning** |    CVPR   | [Link](https://arxiv.org/pdf/2404.00228) |  [Link](https://github.com/liangyanshuo/InfLoRA) |
+| 2024 | **InfLoRA: Interference-Free Low-Rank Adaptation for Continual Learning** |    CVPR   | [Link](https://arxiv.org/pdf/2404.00228) |  [Link](https://github.com/liangyanshuo/InfLoRA) | Continual Learning; Interference-Free |
 | 2024 | **AdvLoRA: Adversarial Low-Rank Adaptation of Vision-Language Models** |    arXiv   | [Link](https://arxiv.org/pdf/2404.13425) |  - |
 | 2024 | **Compressible Dynamics in Deep Overparameterized Low-Rank Learning & Adaptation** |    ICML   | [Link](https://arxiv.org/pdf/2406.04112) |  [Link](https://github.com/cjyaras/deep-lora-transformers) |
 | 2024 | **FLORA: Low-Rank Adapters Are Secretly Gradient Compressors** |    ICML   | [Link](https://arxiv.org/pdf/2402.03293) |  [Link](https://github.com/BorealisAI/flora-opt) |
