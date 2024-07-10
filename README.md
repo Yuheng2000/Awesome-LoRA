@@ -83,7 +83,7 @@ LoRA is an efficient finetuning technique proposed by Microsoft researchers to a
 | 2024 | **Low-Rank Few-Shot Adaptation of Vision-Language Models** |    CVPR   | [Link](https://arxiv.org/pdf/2405.18541) |  [Link](https://github.com/MaxZanella/CLIP-LoRA) | VisionLanguage Models (VLMs); Few-Shot |
 | 2024 | **MTLoRA: A Low-Rank Adaptation Approach for Efficient Multi-Task Learning** |    CVPR   | [Link](https://arxiv.org/pdf/2403.20320) | [Link](https://github.com/scale-lab/MTLoRA) | Multi-Task Learning (MTL); Pareto-Optimal Trade-Off |
 | 2024 | **QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models** |    arXiv   | [Link](https://arxiv.org/pdf/2309.14717) |  [Link](https://github.com/eltociear/qa-lora) | Quantization and Adaptation; Group-Wise Operators |
-| 2024 | **Defending Against Weight-Poisoning Backdoor Attacks for Parameter-Efficient Fine-Tuning** |    arXiv   | [Link](https://arxiv.org/pdf/2402.12168) |  - |
+| 2024 | **Defending Against Weight-Poisoning Backdoor Attacks for Parameter-Efficient Fine-Tuning** |    arXiv   | [Link](https://arxiv.org/pdf/2402.12168) |  - | Security Vulnerabilities; Poisoned Sample Identification Module (PSIM) |
 | 2024 | **Mixture-of-LoRAs: An Efficient Multitask Tuning for Large Language Models** |    COLING   | [Link](https://arxiv.org/pdf/2403.03432) |  - |
 | 2024 | **LaMDA: Large Model Fine-Tuning via Spectrally Decomposed Low-Dimensional Adaptation** |    arXiv   | [Link](https://arxiv.org/pdf/2406.12832) |  [Link](https://github.com/ArminAzizi98/LaMDA) |
 | 2024 | **Accurate LoRA-Finetuning Quantization of LLMs via Information Retention** |    ICML   | [Link](https://arxiv.org/pdf/2402.05445) | [Link](https://github.com/htqin/IR-QLoRA) | Quantization; Information Retention;|
