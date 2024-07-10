@@ -39,8 +39,7 @@ LoRA is an efficient finetuning technique proposed by Microsoft researchers to a
 
 | Year | Title                                                        | **Venue** |                            Paper                             |                             Code                             | **Keywords** |
 | :--: | :----------------------------------------------------------- | :-------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :-------: |
-| 2024 | **LoRA-XS: Low-Rank Adaptation with Extremely Small Number of Parameters** |    arXiv   | [Link](https://arxiv.org/pdf/2405.17604) |  [Link](https://github.com/MohammadrezaBanaei/LoRA-XS) | SVD;  
-scaling LLM; |
+| 2024 | **LoRA-XS: Low-Rank Adaptation with Extremely Small Number of Parameters** |    arXiv   | [Link](https://arxiv.org/pdf/2405.17604) |  [Link](https://github.com/MohammadrezaBanaei/LoRA-XS) | SVD;  scaling LLM; |
 | 2024 | **Matrix-Transformation Based Low-Rank Adaptation (MTLoRA): A Brain-Inspired Method for Parameter-Efficient Fine-Tuning** |    arXiv   | [Link](https://arxiv.org/pdf/2403.07440) |  [Link](https://github.com/YaoLiang-Code/MTLoRA-main) |
 | 2024 | **AutoLoRA: Automatically Tuning Matrix Ranks in Low-Rank Adaptation Based on Meta Learning** |    arXiv   | [Link](https://arxiv.org/pdf/2403.09113) |  [Link](https://anonymous.4open.science/r/AutoLoRA) |
 | 2024 | **RankAdaptor: Hierarchical Dynamic Low-Rank Adaptation for Structural Pruned LLMs** |    arXiv   | [Link](https://arxiv.org/pdf/2406.15734) |  - |
