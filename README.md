@@ -100,7 +100,7 @@ LoRA is an efficient finetuning technique proposed by Microsoft researchers to a
 | 2024 | **LoRA Learns Less and Forgets Less** |    arXiv   | [Link](https://arxiv.org/pdf/2405.09673) |  - | Robust Fine-Tuning; Adversarial Robustness |
 | 2024 | **LoRA+: Efficient Low Rank Adaptation of Large Models** |    arXiv   | [Link](https://arxiv.org/abs/2402.12354) |  [Link](https://github.com/nikhil-ghosh-berkeley/loraplus) | Efficient Fine-Tuning |
 | 2024 | **PeriodicLoRA: Breaking the Low-Rank Bottleneck in LoRA Optimization** |    arXiv   | [Link](https://arxiv.org/abs/2402.16141) |  - | Low-Rank Bottleneck |
-| 2024 | **Sparse Matrix in Large Language Model Fine-tuning** |    arXiv   | [Link](https://arxiv.org/html/2405.15525v1) |  - |
+| 2024 | **Sparse Matrix in Large Language Model Fine-tuning** |    arXiv   | [Link](https://arxiv.org/html/2405.15525v1) |  - | Sparse Matrix Tuning (SMT); Robust Fine-Tuning |
 | 2024 | **Derivative-Free Optimization for Low-Rank Adaptation in Large Language Models** |    arXiv   | [Link](https://arxiv.org/abs/2403.01754) |  [Link](https://github.com/stan-anony/derivative_free_lora_rank) |
 | 2024 | **Multi-LoRA Composition for Image Generation** |    arXiv   | [Link](https://arxiv.org/pdf/2402.16843) |  [Link](https://github.com/maszhongming/Multi-LoRA-Composition) |
 | 2024 | **BiLoRA: A Bi-level Optimization Framework for Overfitting-Resilient Low-Rank Adaptation of Large Pre-trained Models** |    arXiv   | [Link](https://arxiv.org/abs/2403.13037) |  - |
