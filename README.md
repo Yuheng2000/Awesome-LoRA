@@ -107,7 +107,7 @@ LoRA is an efficient finetuning technique proposed by Microsoft researchers to a
 | 2024 | **AFLoRA: Adaptive Freezing of Low Rank Adaptation in Parameter Efficient Fine-Tuning of Large Models** |    arXiv   | [Link](https://arxiv.org/abs/2403.13269) |  - | Adaptive Freezing; Robust Fine-Tuning |
 | 2024 | **LoRA Meets Dropout under a Unified Framework** |    arXiv   | [Link](https://arxiv.org/abs/2403.00812) |  - | HiddenKey; Dropout; Robust Fine-Tuning |
 | 2024 | **Galore: Memory-efficient llm training by gradient low-rank projection** |    ICML   | [Link](https://arxiv.org/abs/2403.03507) |  [Link](https://github.com/jiaweizzhao/GaLore) |
-| 2024 | **Let's Focus on Neuron: Neuron-Level Supervised Fine-tuning for Large Language Model** |    arXiv   | [Link](https://arxiv.org/abs/2403.11621) |  - |
+| 2024 | **Let's Focus on Neuron: Neuron-Level Supervised Fine-tuning for Large Language Model** |    arXiv   | [Link](https://arxiv.org/abs/2403.11621) |  - | Neuron-Level Fine-Tuning (NeFT); Robust Fine-Tuning |
 | 2024 | **LISA: Layerwise Importance Sampling for Memory-Efficient Large Language Model Fine-Tuning** |    arXiv   | [Link](https://arxiv.org/abs/2403.17919) |  - | Layerwise Importance Sampled AdamW (LISA); Robust Fine-Tuning |
 | 2023 | **Efficient Low-rank Backpropagation for Vision Transformer Adaptation** |    NeurIPS   | [Link](https://proceedings.neurips.cc/paper_files/paper/2023/file/2f75a57e9c71e8369da0150ea769d5a2-Paper-Conference.pdf) |  [Link](https://github.com/SLDGroup/LBP-WHT) | vision transformers (ViT); Robust Fine-Tuning |
 | 2023 | **Delta-LoRA: Fine-Tuning High-Rank Parameters with the Delta of Low-Rank Matrices** |    arXiv   | [Link](https://arxiv.org/pdf/2309.02411) |  - | Robust Fine-Tuning; Adversarial Robustness |
