@@ -39,6 +39,8 @@ LoRA is an efficient finetuning technique proposed by Microsoft researchers to a
 
 | Year | Title                                                        | **Venue** |                            Paper                             |                             Code                             |     **Keywords**     |
 | :--: | :----------------------------------------------------------- | :-------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :-------: |
+
+| 2024 | **LoRA-GA: Low-Rank Adaptation with Gradient Approximation** |    arXiv   | [Link](https://arxiv.org/pdf/2407.05000) | [Link](https://github.com/Outsider565/LoRA-GA) | Gradient Approximation; Convergence;|
 | 2024 | **Efficient Pareto Manifold Learning with Low-Rank Structure** |    ICML   | [Link](https://openreview.net/pdf?id=a2uFstsHPb) | - | Multi-task learning; Pareto front;|
 | 2024 | **AutoLoRa: An Automated Robust Fine-Tuning Framework** |    ICLR   | [Link](https://openreview.net/pdf?id=09xFexjhqE) |  [Link](https://github.com/GodXuxilie/RobustSSL_Benchmark) | Robust Fine-Tuning; Adversarial Robustness;|
 | 2024 | **LoRA-XS: Low-Rank Adaptation with Extremely Small Number of Parameters** |    arXiv   | [Link](https://arxiv.org/pdf/2405.17604) |  [Link](https://github.com/MohammadrezaBanaei/LoRA-XS) | scaling language models; SVD； |
