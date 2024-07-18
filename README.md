@@ -31,7 +31,7 @@ LoRA is an efficient finetuning technique proposed by Microsoft researchers to a
 
 | Year | Title                                                        |    Venue    |                            Paper                             | Code |
 | ---- | ------------------------------------------------------------ | :---------: | :----------------------------------------------------------: | :--: |
-| - | **-** |    -   | - |  - |
+| 2024 | **A Survey on LoRA of Large Language Models** |    arXiv   | [Link](https://arxiv.org/pdf/2407.11046) |  - |
 
 
 
