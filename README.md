@@ -39,6 +39,10 @@ LoRA is an efficient finetuning technique proposed by Microsoft researchers to a
 
 | Year | Title                                                        | **Venue** |                            Paper                             |                             Code                             |     **Keywords**     |
 | :--: | :----------------------------------------------------------- | :-------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :-------: |
+| 2024 | **PC-LoRA: Low-Rank Adaptation for Progressive Model Compression with Knowledge Distillation** |    arXiv   | [Link](https://arxiv.org/pdf/2406.09117) | - | Model Compression; Knowledge Distillation; |
+| 2024 | **Vera: Vector-based random matrix adaptation** |    ICLR   | [Link](https://arxiv.org/abs/2310.11454) | - | Shared-LoRA; Trainable Vectors; |
+| 2024 | **LaMDA: Large Model Fine-Tuning via Spectrally Decomposed Low-Dimensional Adaptation** |    arXiv   | [Link](https://arxiv.org/pdf/2406.12832) | [Link](https://github.com/ArminAzizi98/LaMDA) | Multi-Step Training; Trainable Vectors;|
+| 2024 | **Prompt Tuning Strikes Back: Customizing Foundation Models with Low-Rank Prompt Adaptation** |    arXiv   | [Link](https://arxiv.org/pdf/2405.15282) | - | Prompt-Tuning-based |
 | 2024 | **ROSA: Random Subspace Adaptation for Efficient Fine-Tuning** |    arXiv   | [Link](https://arxiv.org/pdf/2407.07802) | [Link](https://github.com/rosa-paper/rosa) | Random Subspace Adaptation; Robust Fine-Tuning |
 | 2024 | **LoRA-GA: Low-Rank Adaptation with Gradient Approximation** |    arXiv   | [Link](https://arxiv.org/pdf/2407.05000) | [Link](https://github.com/Outsider565/LoRA-GA) | Gradient Approximation; Convergence;|
 | 2024 | **Efficient Pareto Manifold Learning with Low-Rank Structure** |    ICML   | [Link](https://openreview.net/pdf?id=a2uFstsHPb) | - | Multi-task learning; Pareto front;|
@@ -124,13 +128,8 @@ LoRA is an efficient finetuning technique proposed by Microsoft researchers to a
 | 2023 | **Sparse low-rank adaptation of pre-trained language models** |    EMNLP   | [Link](https://aclanthology.org/2023.emnlp-main.252.pdf) |  [Link](https://github.com/TsinghuaC3I/SoRA) | Sparse Low-Rank; Robust Fine-Tuning |
 | 2023 | **Low-Rank Adaptation of Large Language Model Rescoring for Parameter-Efficient Speech Recognition** |    ASRU   | [Link](https://ieeexplore.ieee.org/abstract/document/10389632) |  - | Parameter-Efficient Speech Recognition |
 | 2023 | **SiRA: Sparse Mixture of Low Rank Adaptation** |    arXiv   | [Link](https://arxiv.org/abs/2311.09179) |  - | Sparse Mixture of Expert(SMoE); Robust Fine-Tuning |
-| 2022 | **LoRA: Low-Rank Adaptation of Large Language Models** |    ICLR   | [Link](https://arxiv.org/abs/2106.09685) |  [Link](https://github.com/microsoft/LoRA) | The Pioneering Paper |
-
-## Others
-| Year | Title                                                        | **Venue** |                            Paper                             |                             Code                             |
-| :--: | :----------------------------------------------------------- | :-------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2021 | **Compacter: Efficient low-rank hypercomplex adapter layers** |    NeurIPS   | [Link](https://proceedings.neurips.cc/paper/2021/file/081be9fdff07f3bc808f935906ef70c0-Paper.pdf) |  [Link](https://github.com/rabeehk/compacter) |
-
+| 2022 | **LoRA: Low-Rank Adaptation of Large Language Models** |    ICLR   | [Link](https://arxiv.org/abs/2106.09685) |  [Link](https://github.com/microsoft/LoRA) | The Pioneering Paper |
 
 
 ## Packages
