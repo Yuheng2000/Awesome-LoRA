@@ -39,6 +39,9 @@ LoRA is an efficient finetuning technique proposed by Microsoft researchers to a
 
 | Year | Title                                                        | **Venue** |                            Paper                             |                             Code                             |     **Keywords**     |
 | :--: | :----------------------------------------------------------- | :-------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :-------: |
+| 2024 | **ExPLoRA: Parameter-Efficient Extended Pre-Training to Adapt Vision Transformers under Domain Shifts** |    arXiv   | [Link](https://arxiv.org/abs/2406.10973) | - | Domain Shifts; ViT; Self-Supervised Learning;|
+| 2024 | **RoSA: Accurate Parameter-Efficient Fine-Tuning via Robust Adaptation** |    ICML   | [Link](https://arxiv.org/abs/2401.04679) | [Link](https://github.com/IST-DASLab/RoSA) | Robust Adaptation; PCA;|
+| 2024 | **FouRA: Fourier Low Rank Adaptation** |    arXiv   | [Link](https://arxiv.org/abs/2406.08798) | - | Fourier Learning; Diffusion Models; Image Generation;|
 | 2024 | **Trans-LoRA: towards data-free Transferable Parameter Efficient Finetuning** |    arXiv   | [Link](https://arxiv.org/abs/2405.17258) | - | Transferable Module; Deployment;|
 | 2024 | **LoRA-drop: Efficient LoRA Parameter Pruning based on Output Evaluation** |    arXiv   | [Link](https://arxiv.org/abs/2402.07721) | - | Parameter Pruning; Parameter Evaluation;|
 | 2024 | **LoRA-Pro: Are Low-Rank Adapters Properly Optimized?** |    arXiv   | [Link](https://arxiv.org/abs/2407.18242) | - | Optimization Process; Equivalent Gradient;|
@@ -46,7 +49,7 @@ LoRA is an efficient finetuning technique proposed by Microsoft researchers to a
 | 2024 | **PC-LoRA: Low-Rank Adaptation for Progressive Model Compression with Knowledge Distillation** |    arXiv   | [Link](https://arxiv.org/pdf/2406.09117) | - | Model Compression; Knowledge Distillation; |
 | 2024 | **Vera: Vector-based random matrix adaptation** |    ICLR   | [Link](https://arxiv.org/abs/2310.11454) | - | Shared-LoRA; Trainable Vectors; |
 | 2024 | **LaMDA: Large Model Fine-Tuning via Spectrally Decomposed Low-Dimensional Adaptation** |    arXiv   | [Link](https://arxiv.org/pdf/2406.12832) | [Link](https://github.com/ArminAzizi98/LaMDA) | Multi-Step Training; Trainable Vectors;|
-| 2024 | **Prompt Tuning Strikes Back: Customizing Foundation Models with Low-Rank Prompt Adaptation** |    arXiv   | [Link](https://arxiv.org/pdf/2405.15282) | - | Prompt-Tuning-based |
+| 2024 | **Prompt Tuning Strikes Back: Customizing Foundation Models with Low-Rank Prompt Adaptation** |    arXiv   | [Link](https://arxiv.org/pdf/2405.15282) | - | Prompt-Tuning-based; |
 | 2024 | **ROSA: Random Subspace Adaptation for Efficient Fine-Tuning** |    arXiv   | [Link](https://arxiv.org/pdf/2407.07802) | [Link](https://github.com/rosa-paper/rosa) | Random Subspace Adaptation; Robust Fine-Tuning |
 | 2024 | **LoRA-GA: Low-Rank Adaptation with Gradient Approximation** |    arXiv   | [Link](https://arxiv.org/pdf/2407.05000) | [Link](https://github.com/Outsider565/LoRA-GA) | Gradient Approximation; Convergence;|
 | 2024 | **Efficient Pareto Manifold Learning with Low-Rank Structure** |    ICML   | [Link](https://openreview.net/pdf?id=a2uFstsHPb) | - | Multi-task learning; Pareto front;|
