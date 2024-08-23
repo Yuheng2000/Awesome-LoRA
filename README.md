@@ -39,7 +39,7 @@ LoRA is an efficient finetuning technique proposed by Microsoft researchers to a
 
 | Year | Title                                                        | **Venue** |                            Paper                             |                             Code                             |     **Keywords**     |
 | :--: | :----------------------------------------------------------- | :-------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :-------: |
-| 2024 | **LoRA-Pro: Are Low-Rank Adapters Properly Optimized?** |    arXiv   | [Link](https://arxiv.org/abs/2407.18242) | [Link]() | Optimization Process; Equivalent Gradient;|
+| 2024 | **LoRA-Pro: Are Low-Rank Adapters Properly Optimized?** |    arXiv   | [Link](https://arxiv.org/abs/2407.18242) | - | Optimization Process; Equivalent Gradient;|
 | 2024 | **LoRA^2: Multi-Scale Low-Rank Approximations for Fine-Tuning Large Language Models** |    arXiv   | [Link](https://arxiv.org/abs/2408.06854) | [Link](https://anonymous.4open.science/r/LoRA-2-5B4C) | Multi-Scale; Prune; Orthogonal Projection;|
 | 2024 | **PC-LoRA: Low-Rank Adaptation for Progressive Model Compression with Knowledge Distillation** |    arXiv   | [Link](https://arxiv.org/pdf/2406.09117) | - | Model Compression; Knowledge Distillation; |
 | 2024 | **Vera: Vector-based random matrix adaptation** |    ICLR   | [Link](https://arxiv.org/abs/2310.11454) | - | Shared-LoRA; Trainable Vectors; |
