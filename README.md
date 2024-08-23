@@ -39,6 +39,7 @@ LoRA is an efficient finetuning technique proposed by Microsoft researchers to a
 
 | Year | Title                                                        | **Venue** |                            Paper                             |                             Code                             |     **Keywords**     |
 | :--: | :----------------------------------------------------------- | :-------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :-------: |
+| 2024 | **Trans-LoRA: towards data-free Transferable Parameter Efficient Finetuning** |    arXiv   | [Link](https://arxiv.org/abs/2405.17258) | - | Transferable Module; Deployment;|
 | 2024 | **LoRA-drop: Efficient LoRA Parameter Pruning based on Output Evaluation** |    arXiv   | [Link](https://arxiv.org/abs/2402.07721) | - | Parameter Pruning; Parameter Evaluation;|
 | 2024 | **LoRA-Pro: Are Low-Rank Adapters Properly Optimized?** |    arXiv   | [Link](https://arxiv.org/abs/2407.18242) | - | Optimization Process; Equivalent Gradient;|
 | 2024 | **LoRA^2: Multi-Scale Low-Rank Approximations for Fine-Tuning Large Language Models** |    arXiv   | [Link](https://arxiv.org/abs/2408.06854) | [Link](https://anonymous.4open.science/r/LoRA-2-5B4C) | Multi-Scale; Prune; Orthogonal Projection;|
