@@ -39,7 +39,6 @@ LoRA is an efficient finetuning technique proposed by Microsoft researchers to a
 
 | Year | Title                                                        | **Venue** |                            Paper                             |                             Code                             |     **Keywords**     |
 | :--: | :----------------------------------------------------------- | :-------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :-------: |
-| 2024 | **Mixture-of-Subspaces in Low-Rank Adaptation** |    arXiv   | [Link](https://arxiv.org/pdf/2406.11909) | [Link](https://github.com/wutaiqiang/MoSLoRA) | Mixture-of-Subspaces; MoE;|
 | 2024 | **ExPLoRA: Parameter-Efficient Extended Pre-Training to Adapt Vision Transformers under Domain Shifts** |    arXiv   | [Link](https://arxiv.org/abs/2406.10973) | - | Domain Shifts; ViT; Self-Supervised Learning;|
 | 2024 | **RoSA: Accurate Parameter-Efficient Fine-Tuning via Robust Adaptation** |    ICML   | [Link](https://arxiv.org/abs/2401.04679) | [Link](https://github.com/IST-DASLab/RoSA) | Robust Adaptation; PCA;|
 | 2024 | **FouRA: Fourier Low Rank Adaptation** |    arXiv   | [Link](https://arxiv.org/abs/2406.08798) | - | Fourier Learning; Diffusion Models; Image Generation;|
