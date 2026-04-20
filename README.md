@@ -142,6 +142,8 @@ LoRA is an efficient finetuning technique proposed by Microsoft researchers to a
 
 
 ## Packages
+
+- [OneComp](https://github.com/FujitsuResearch/OneCompression) — Fujitsu PTQ pipeline supporting LoRA SFT post-process for post-quantization accuracy recovery. Paper: [arXiv:2603.28845](https://arxiv.org/abs/2603.28845).
 Huggingface PEFT [Link](https://github.com/huggingface/peft) 
 
 
